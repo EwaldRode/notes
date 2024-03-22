@@ -1,8 +1,8 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 site_name: Ewald's Cheat Sheet
 site_description: Snippets and how-to's
-repo_name: ewaldrode/cheatsheet
-repo_url: https://github.com/ewaldrode/cheatsheet
+repo_name: ewaldrode/notes
+repo_url: https://github.com/ewaldrode/notes
 edit_uri: edit/main/docs/
 docs_dir: ./docs
 site_dir: ./site
