@@ -131,6 +131,12 @@ If you are on the branch you want to rename:
 git branch -m new-name
 ```
 
+## Change file permission 
+Make a file executable
+```bash
+git update-index --chmod=+x /path/to/executable
+```
+
 ## Create a patch for the last commit 
 ```bash
 git format-patch -1 HEAD
